@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	BaseContainerGun = "registry.opensuse.org/home/vpereirabr/dockerimages/containers/vpereirabr/airflow_runner:latest"
+	BaseContainerGun = "registry.opensuse.org/home/vpereirabr/dockerimages/containers/vpereirabr/dagger_runner:latest"
 )
 
 type CatalogScannerPipeline struct {
