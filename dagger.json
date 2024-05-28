@@ -1,0 +1,6 @@
+{
+  "name": "catalog_scanner_pipeline",
+  "sdk": "go",
+  "source": "dagger",
+  "engineVersion": "v0.11.4"
+}
